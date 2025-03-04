@@ -1,2 +1,3 @@
 # Syntactic-tagger
-Implementación de un etiquetador de la función sintáctica sujeto, su manifestación sintáctica y posición con respecto al verbo de cognición creer
+
+Implementation of a tagger of the syntactic function subject, its syntactic manifestation and position with respect to the verb of cognition believe (in spanish)
