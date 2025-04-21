@@ -172,4 +172,4 @@ cython_debug/
 
 Saber UH/.obsidian/
 granma-txts/
-src/jsons-generados/
+#src/jsons-generados/
